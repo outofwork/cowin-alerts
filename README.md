@@ -2,7 +2,7 @@
 Script to alert when Cowin slots are available
 
 
-### How to user
+### How to use
 
     1. Change the CowinApp class file to add you centre.
 
